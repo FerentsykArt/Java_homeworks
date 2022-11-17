@@ -1,0 +1,19 @@
+public class Homework_1_1 {
+     public static void main(String[] args) {
+        char unicodeExample = 'G';
+        int integerExample = 89;
+        byte byteExample = 4;
+        short shortExample = 56;
+        float floatExample = 4.7333436f;
+        double doubleExample = 4.355453532;
+        long londExample = 12121;
+        System.out.println(unicodeExample);
+        System.out.println(integerExample);
+        System.out.println(byteExample);
+        System.out.println(shortExample);
+        System.out.println(floatExample);
+        System.out.println(doubleExample);
+        System.out.println(londExample);
+
+   }
+}
